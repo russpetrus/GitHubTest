@@ -11,6 +11,9 @@ namespace GitHubTest
         static void Main(string[] args)
         {
             Console.WriteLine("Does this thing work");
+
+            int age = 25;
+            Console.WriteLine(age);
         }
     }
 }
